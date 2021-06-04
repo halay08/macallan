@@ -1,0 +1,6 @@
+[submodule "macallan-function"]
+	path = macallan-function
+	url = git@github.com:halay08/macallan-function.git
+[submodule "macallan-frontend"]
+	path = macallan-frontend
+	url = git@github.com:halay08/macallan-frontend.git
