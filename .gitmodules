@@ -4,3 +4,6 @@
 [submodule "macallan-frontend"]
 	path = macallan-frontend
 	url = git@github.com:halay08/macallan-frontend.git
+[submodule "macallan-admin"]
+	path = macallan-admin
+	url = git@github.com:halay08/macallan-admin.git
